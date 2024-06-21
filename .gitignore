@@ -93,6 +93,7 @@ public
 .tern-port
 
 # Environment Variables
+node_modules/
 .env
 .env.test
 .env.production
