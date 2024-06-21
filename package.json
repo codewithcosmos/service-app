@@ -9,8 +9,12 @@
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
   "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@mui/material": "^5.15.20",
     "axios": "^1.7.2",
     "bcryptjs": "^2.4.3",
+    "bootstrap": "^5.3.3",
     "cors": "^2.8.5",
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
@@ -22,9 +26,9 @@
     "redux-thunk": "^3.1.0"
   },
   "devDependencies": {
-    "concurrently": "^6.2.0",
+    "concurrently": "^6.5.1",
     "eslint": "^7.32.0",
-    "nodemon": "^2.0.12",
-    "prettier": "^2.3.2"
+    "nodemon": "^2.0.22",
+    "prettier": "^2.8.8"
   }
 }
