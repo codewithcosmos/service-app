@@ -46,7 +46,10 @@ The Home Services App is designed to connect users with various home service pro
 - Gardener
 - Home Support
 
-## Project Structure
+- ## Project Structure Image
+![Service-Structure](https://github.com/codewithcosmos/store-app/assets/163349688/e6a7686d-dd4d-4ab3-a53f-729be83b8a13)
+
+## Project Structure diagram
 project-root/
 │
 ├── client/
